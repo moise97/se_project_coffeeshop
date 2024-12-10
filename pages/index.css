@@ -136,8 +136,12 @@
   background-repeat: no-repeat;
 }
 .reservation__title {
-  margin: 0 0 80px;
+  margin: 0 auto 80px;
   text-align: center;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  max-width: 385px;
 }
 .reservation__form {
   margin: 0 auto;

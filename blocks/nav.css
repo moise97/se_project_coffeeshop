@@ -24,6 +24,6 @@
   transition: opacity 0.5s;
   cursor: pointer;
 }
-.nav_link:hover {
+.nav__link:hover {
   opacity: 0.5;
 }
